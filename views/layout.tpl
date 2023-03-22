@@ -1,5 +1,4 @@
-﻿
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="ru-ru">
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -503,7 +502,7 @@ a {color:#a4793a;}
                                                 <div class=" hidden btn1 surround  " data-hcolor="#a4793a" style="background-color:#e8aa6d;  border-radius: 0em;   box-shadow: 0;     ">Перезвоните мне</div>
                                                 <div style="color:#000000; " class="menu_mobile_btn square new_burger"><svg><use xlink:href="/img/menu_burger.svg#menu"></use></svg></div>
                                         <div class="menu1" style="font-size:16px; color:#333333; ">
-                                                <ul><li class="level0"><a href="#anchor1" title="ПОЧЕМУ МЫ">ИСТОРИЯ BMW</a></li><li class="level0"><a href="#anchor3" title="ОТЗЫВЫ">ОТЗЫВЫ ПОКУПАТЕЛЕЙ</a></li><li class="level0"><a href="#anchor4" title="КОНТАКТЫ">КОНТАКТЫ</a></li></ul>
+                                                <ul><li class="level0"><a href="#anchor1" title="ПОЧЕМУ МЫ">ИСТОРИЯ BMW</a></li><li class="level0"><a href="#anchor3" title="ОТЗЫВЫ">ОТЗЫВЫ ПОКУПАТЕЛЕЙ</a></li><li class="level0"><a href="#a_1838505" title="КОНТАКТЫ">КОНТАКТЫ</a></li></ul>
                                         </div>
                                         <div class="clear"></div>
                         </div>
@@ -748,7 +747,7 @@ a {color:#a4793a;}
                                                     <div class="mdico1    " style="color:#e8aa6d;"><i class="md svg-icon-box1" style="color:#e8aa6d;"></i></div>
                                                     
                                                     <div class="title1"><p><strong>МОЩНОСТЬ</strong></p></div>
-                                                     <div class="txt1"> <span style="font-size:17px">Напишите 2-3 предложения о том, почему стоит выбрать именно ваш товар</span></div> 
+                                                    
                                                     
                                                     <div class=" hidden btn1 surround  " data-hcolor="#a4793a" style="background-color:#e8aa6d;  border-radius: 0em;   box-shadow: 0;     ">Узнать подробнее</div>
                                                      
@@ -773,7 +772,7 @@ a {color:#a4793a;}
                                                     <div class="mdico1    " style="color:#e8aa6d;"><i class="md svg-icon-lockers" style="color:#e8aa6d;"></i></div>
                                                     
                                                     <div class="title1"><p><span style="font-size:17px"></span><strong>НАДЕЖНОСТЬ</strong><span style="font-size:17px"></span></p></div>
-                                                     <div class="txt1"> <span style="font-size:17px">Напишите 2-3 предложения о том, почему стоит выбрать именно ваш товар</span></div> 
+                                                    
                                                     
                                                     
                 
@@ -796,7 +795,7 @@ a {color:#a4793a;}
                                                     <div class="mdico1    " style="color:#e8aa6d;"><i class="md svg-icon-discussion" style="color:#e8aa6d;"></i></div>
                                                     
                                                     <div class="title1"><p><span style="font-size:17px"></span><strong>ПРАКТИЧНОСТЬ</strong><span style="font-size:17px"></span></p></div>
-                                                     <div class="txt1"> <span style="font-size:17px">Напишите 2-3 предложения о том, почему стоит выбрать именно ваш товар</span></div> 
+                                                    
                                                     
                                                     <div class=" hidden btn1 surround  " data-hcolor="#a4793a" style="background-color:#e8aa6d;  border-radius: 0em;   box-shadow: 0;     ">Узнать подробнее</div>
                                                      
@@ -818,7 +817,7 @@ a {color:#a4793a;}
                                                     <div class="mdico1    " style="color:#e8aa6d;"><i class="md svg-icon-vending-machine" style="color:#e8aa6d;"></i></div>
                                                     
                                                     <div class="title1"><p><span style="font-size:17px"></span><strong>ОТЛИЧНЫЙ ДИЗАЙН</strong><span style="font-size:17px"></span></p></div>
-                                                     <div class="txt1"> <span style="font-size:17px">Напишите 2-3 предложения о том, почему стоит выбрать именно ваш товар</span></div> 
+                                                    
                                                     
                                                     <div class=" hidden btn1 surround  " data-hcolor="#a4793a" style="background-color:#e8aa6d;  border-radius: 0em;   box-shadow: 0;     ">Узнать подробнее</div>
                                                      
@@ -858,7 +857,7 @@ a {color:#a4793a;}
 												
 										<div class="right    size_900x900">
 											 <div class="title1"><div><span style="font-size:36px;"><span style="font-family:montserrat;"><strong>ИСТОРИЯ КОМПАНИИ</strong></span></span></div></div>
-											 <div class="txt1"> <p><span style="font-size:16px"></span><span style="font-size:17px">Описание компании нужно вставить сюда тем же шрифтом и тем же размером текста. Расскажите о себе, и о том, чем вы занимаетесь, как давно вы это делаете. Также в этом блоке вы можете написать несколько предложений о том, как начиналась работа вашей компании. Можно еще добавить пару слов о том, какие цели вы себе поставили и чего добились. Все это поможет в расположении клиента к вашей компании.</span><br><br><span style="font-size:17px">При небольшом объеме текста вы можете изменить размер блока в настройках, чтобы текст выглядел презентабельно. Если объем текста слишком большой, а размер изображения стоит минимальный, то вам необходимо перейти в настройки блока и изменить размер изображения на такой, чтобы его высота соответствовала высоте текста.&nbsp;​​​​​​​</span><span style="font-size:16px"></span></p></div> 
+											 <div class="txt1"> <p><span style="font-size:16px"></span><span style="font-size:17px">В начале Первой Мировой у BMW появилось множество заказов на производство двигателей для самолетов, после чего основатели принимают решение воссоединиться в одну авиамоторную компанию. После чего в Мюнхене появился завод авиационных двигателей, зарегистрированный в 1917 году под названием — Bayerische Motoren Werke («Баварские моторные заводы»), то есть в аббревиатуре — BMW. Чуть позже эту дату стали называть датой рождения компании БМВ, а Карла и Густава — назвали ее основателями.&nbsp;​​​​​​​</span><br><br><span style="font-size:17px">После Первой мировой, компания БМВ на грани развала, согласно Версальского договора, производство двигателей для самолетов немцам запрещено, а двигатели, как вы понимаете, были единственным видом продукции которую производила BMW. Однако предприимчивым Карлу Раппу и Густаву Отто хватило ума для того чтобы выйти из сложившегося положения, и они принимают решение — перепрофилировать завод на производство сначала моторов для мотоциклов, а через некоторое время и самих мотоциклов. Так в 1923 с конвейера сходит первый мотоцикл BMW R32, который в этом же году на мотосалоне в Париже завоевывает признание публики и репутацию надежного и скоростного мотоцикла. Со временем эта симпатия была подтверждена абсолютными рекордами скорости на мотогонках проводимых в 20-х и 30-х годах.</span><br><br><span style="font-size:17px">Начало 20-х годов ознаменовались для BMW новой эпохой, в ее истории появились два влиятельных бизнесмена — Шапиро и Готаера, которые в последствии и стали ее владельцами, вытянув ее из кризиса и избавив от долгов. Главная причина по которой компания переживала трудные времена, было отсутствие собственного автомобильного производства. Выход из положения нашел Шапиро, который имел связи с влиятельными английскими автопромышленниками в сущности — Хербертом Остином. Шапииро договорился о совместном сотрудничестве и массовом серийном производстве "Остинов" на заводе в Айзенахе. Серийное производство в те времена было довольно редким явлением, его мог позволить себе только "Даймлер-Бенц".</span></p></div> 
 											
 											
 												
@@ -970,15 +969,15 @@ a {color:#a4793a;}
 								 <div class="noise_new " style="background-image:url(/img/null.png); opacity:0.5;"></div>
 								<div class="section_inner     width1170 ">
 								<div class="title"><span style="font-size:36px"><strong>ОТЗЫВЫ КЛИЕНТОВ</strong></span></div> 
-								<div class="sub_title"><span style="font-size:20px;">Нам очень важно Ваше мнение!</span></div>
+							
 								  
 								<div class="arr1">
 									
 										<div data-link="" class="col_2   image1  border   image_size_940x680  border1  "><img  data-lazy='1' data-src="/img/940x680/f155a52028119836240aee4c24539f1e.jpg" alt=""></div>
 									
 									<div class="col_2">
-										 <div class="descr1"><strong><span style="font-size:20px">Диана Журавлева</span></strong></div>
-										 <div class="txt1"><p><span style="font-size:17px">Все что указано в договоре, было выполнено в срок, поэтому могу поставить вашей компании "отлично" и советовать другим обращаться только к вам. Приятно удивлен&nbsp;уровнем ваших мастеров и их дисциплиной. Спасибо вам большое! <br><br>Были проблемы с выбором необходимого товара. Понравилось то, что менеджер помог мне определиться, что же все таки купить. Я считаю, что несомненными&nbsp;плюсами компании являются профессиональные специалисты, 100% гарантия качества предлагаемого продукта, доступная стоимость, и самое главное это менеджер, который помогает с любыми проблемами. Буду рекомендовать всем своим друзьям!</span></p></div> 
+										 <div class="descr1"><strong><span style="font-size:20px">Вячеслав Ознобихин</span></strong></div>
+										 <div class="txt1"><p><span style="font-size:17px">BMW это дерзкий взгляд дикой кошки, воплощение зла и сатаны, если её раскочегарить, она будет переезжать любого кто встанет на её пути, у этой бестии есть один минус, да вообще впринципе у любой бмв этот минус присутсвует, это ошибки на приводе. Как же они любят вылезать когда ты даёшь боком по мкаду на скорости 150км\ч<br><br></span></p></div> 
 									</div>
 									<div class="clear"></div>
 									</div> 
@@ -988,8 +987,8 @@ a {color:#a4793a;}
 										<div data-link="" class="col_2   image1  border   image_size_940x680  border1  "><img  data-lazy='1' data-src="/img/940x680/e4a49c8396709288eed7fef0b96fae68.jpg" alt=""></div>
 									
 									<div class="col_2">
-										 <div class="descr1"><strong><span style="font-size:20px">Александр Макаров</span></strong></div>
-										 <div class="txt1"><p><span style="font-size:16px"></span><span style="font-size:17px">Все что указано в договоре, было выполнено в срок, поэтому могу поставить вашей компании "отлично" и советовать другим обращаться только к вам. Приятно удивлен&nbsp;уровнем ваших мастеров и их дисциплиной. Спасибо вам большое!<br><br>Были проблемы с выбором необходимого товара. Понравилось то, что менеджер помог мне определиться, что же все таки купить. Я считаю, что несомненными&nbsp;плюсами компании являются профессиональные специалисты, 100% гарантия качества предлагаемого продукта, доступная стоимость, и самое главное это менеджер, который помогает с любыми проблемами. Буду рекомендовать всем своим друзьям!</span><span style="font-size:16px"></span></p></div> 
+										 <div class="descr1"><strong><span style="font-size:20px">Артур Макаров</span></strong></div>
+										 <div class="txt1"><p><span style="font-size:16px"></span><span style="font-size:17px">Машина для души. Машина для сердца. Ты только собрался ускориться - а она уже едет. Поворачиваешь - а она уже заныривает в поворот. Машина, которая читает твои мысли и заставляет получать удовольствие.</span><span style="font-size:16px"></span></p></div> 
 									</div>
 									<div class="clear"></div>
 									</div> 
@@ -1000,7 +999,7 @@ a {color:#a4793a;}
 									
 									<div class="col_2">
 										 <div class="descr1"><strong><span style="font-size:20px">Ольга Михайлова</span></strong></div>
-										 <div class="txt1"><p><span style="font-size:16px"></span><span style="font-size:17px">Все что указано в договоре, было выполнено в срок, поэтому могу поставить вашей компании "отлично" и советовать другим обращаться только к вам. Приятно удивлен&nbsp;уровнем ваших мастеров и их дисциплиной. Спасибо вам большое!<br><br>Были проблемы с выбором необходимого товара. Понравилось то, что менеджер помог мне определиться, что же все таки купить. Я считаю, что несомненными&nbsp;плюсами компании являются профессиональные специалисты, 100% гарантия качества предлагаемого продукта, доступная стоимость, и самое главное это менеджер, который помогает с любыми проблемами. Буду рекомендовать всем своим друзьям!</span><span style="font-size:16px"></span></p></div> 
+										 <div class="txt1"><p><span style="font-size:16px"></span><span style="font-size:17px">Плюсы это управляемость, и необъяснимая харизма этой машины. Езжу на своей тройке уже 5й год, и не могу от неё отказаться. Довольно простой и надёжный автомобиль. участвовала на ней и в автослаломе и в импровизированных зимних покатушках по полям, везде очень хорошо себя показала (конечно учитывая что можно выжать из двигателя 1,8).</span><span style="font-size:16px"></span></p></div> 
 									</div>
 									<div class="clear"></div>
 									</div> 
@@ -1020,23 +1019,7 @@ a {color:#a4793a;}
                                                           <div class="section_inner    ">
 								
 								
-<div class="map_wrapper "><div class="map" data-scroll_off="0" data-map-obj="[{&quot;address&quot;:&quot;Чебоксары, школьный проезд 1&quot;,&quot;color&quot;:&quot;#FF1500&quot;},{&quot;address&quot;:&quot;Москва, Ноовслободская 2&quot;,&quot;color&quot;:&quot;#4285F4&quot;}]" data-map-center="{&quot;zoom&quot;:4,&quot;center&quot;:[53.160571579974,27.795981820008]}"><div class="map_inner"></div></div></div>
-								<div class="text_block "  style="background-color:#ffffff ">
-                                                                    <div class="text"><div><strong><span style="font-family:montserrat;"><span style="font-size:36px;">НАШИ КОНТАКТЫ</span></span></strong></div><ul><li>Чебоксары, школьный проезд 1.</li><li>E-mail: Test@yandex.ru</li><li>Телефон: 8 800 300 06 00 отдела продаж</li><li>Телефон: 8 800 340 06 00 отдела сбыта</li><li>Контактное лицо: Степанов В.И.</li></ul></div>
-                                                                     <div class="txt1">Присоединяйтесь к нам в социальных сетях!</div>
-                                                                    <div class="social_icons circle ">
-                                                                        <a target="_blank" style="   " class="sn sn-vk  link_vk" href=""></a>
-                                                                        <a target="_blank" style="   " class="sn sn-ins  link_ins" href=""></a>
-                                                                        <a target="_blank" style="   " class="sn sn-whatsup  link_whatsup" href=""></a>
-                                                                        <a target="_blank" style="   " class="sn sn-fb  link_fb" href=""></a>
-                                                                        <a target="_blank" style="   " class="sn sn-youtube  link_youtube" href=""></a>
-                                                                        <a target="_blank" style="   " class="sn sn-o  link_o" href=""></a>
-                                                                        <a target="_blank" style="   " class="sn sn-viber  link_viber" href=""><img  data-lazy='1' data-src="/img/viber.svg"></a>
-                                                                        <a target="_blank" style="   " class="sn sn-tg  link_tg" href=""></a>
-                                                                        <div class="clear"></div>
-                                                                    </div>
-								</div>
-								<div class="clear"></div>
+
 							</div>
 					</div>
 
@@ -1047,27 +1030,24 @@ a {color:#a4793a;}
 						<div class="section_inner width1170">
 							
 								
-									<div class="logo_text"><span style="font-family:raleway,sans-serif"><strong>MOUNTAIN</strong></span></div>
+									<div class="logo_text"><span style="font-family:raleway,sans-serif"><strong>SUAI</strong></span></div>
 								
 							
 							<div class="address-and-ua">
 								 
-								<div class="address1">ООО MOUNTAIN, 123456, г.Москва, ул. Центральная 1, офис 1<br>ИНН 1234567890 ОГРН 123456789012</div>
-								 <div class="policy2">Политика конфиденциальности</div> 
+								<div class="address1">ООО SUAI, 123456, г.Санк-Петербург, пр. Московский 149В<br>ИНН 1234567890 ОГРН 123456789012</div>
+								 
 							</div>
 							<div class="phone-and-address">
-								<div class="phone1 zphone show_phone_icon">8 800 333 22 33</div>
+								<div class="phone1 zphone show_phone_icon">8 921 862 51 51</div>
 								<div class="text1">Звонок по России бесплатный</div>
 								<a target="_blank" href="https://tobiz.net/" class="tobiz_link ">Сделано на платформе TOBIZ.NET</a>
 									<div class="social_icons  square ">
-										<a target="_blank" style="   " class="sn sn-vk  link_vk" href=""></a>
-										<a target="_blank" style="  " class="sn sn-ins  link_ins" href=""></a>
-										<a target="_blank" style="  " class="sn sn-whatsup  link_whatsup" href=""></a>
-										<a target="_blank" style="  " class="sn sn-fb  hidden   link_fb" href=""></a>
-										<a target="_blank" style="  " class="sn sn-youtube  link_youtube" href=""></a>
-										<a target="_blank" style="  " class="sn sn-o  hidden   link_o" href=""></a>
-										<a target="_blank" style="  " class="sn sn-viber  hidden   link_viber" href=""><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="viber" class="svg-inline--fa fa-viber fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M444 49.9C431.3 38.2 379.9.9 265.3.4c0 0-135.1-8.1-200.9 52.3C27.8 89.3 14.9 143 13.5 209.5c-1.4 66.5-3.1 191.1 117 224.9h.1l-.1 51.6s-.8 20.9 13 25.1c16.6 5.2 26.4-10.7 42.3-27.8 8.7-9.4 20.7-23.2 29.8-33.7 82.2 6.9 145.3-8.9 152.5-11.2 16.6-5.4 110.5-17.4 125.7-142 15.8-128.6-7.6-209.8-49.8-246.5zM457.9 287c-12.9 104-89 110.6-103 115.1-6 1.9-61.5 15.7-131.2 11.2 0 0-52 62.7-68.2 79-5.3 5.3-11.1 4.8-11-5.7 0-6.9.4-85.7.4-85.7-.1 0-.1 0 0 0-101.8-28.2-95.8-134.3-94.7-189.8 1.1-55.5 11.6-101 42.6-131.6 55.7-50.5 170.4-43 170.4-43 96.9.4 143.3 29.6 154.1 39.4 35.7 30.6 53.9 103.8 40.6 211.1zm-139-80.8c.4 8.6-12.5 9.2-12.9.6-1.1-22-11.4-32.7-32.6-33.9-8.6-.5-7.8-13.4.7-12.9 27.9 1.5 43.4 17.5 44.8 46.2zm20.3 11.3c1-42.4-25.5-75.6-75.8-79.3-8.5-.6-7.6-13.5.9-12.9 58 4.2 88.9 44.1 87.8 92.5-.1 8.6-13.1 8.2-12.9-.3zm47 13.4c.1 8.6-12.9 8.7-12.9.1-.6-81.5-54.9-125.9-120.8-126.4-8.5-.1-8.5-12.9 0-12.9 73.7.5 133 51.4 133.7 139.2zM374.9 329v.2c-10.8 19-31 40-51.8 33.3l-.2-.3c-21.1-5.9-70.8-31.5-102.2-56.5-16.2-12.8-31-27.9-42.4-42.4-10.3-12.9-20.7-28.2-30.8-46.6-21.3-38.5-26-55.7-26-55.7-6.7-20.8 14.2-41 33.3-51.8h.2c9.2-4.8 18-3.2 23.9 3.9 0 0 12.4 14.8 17.7 22.1 5 6.8 11.7 17.7 15.2 23.8 6.1 10.9 2.3 22-3.7 26.6l-12 9.6c-6.1 4.9-5.3 14-5.3 14s17.8 67.3 84.3 84.3c0 0 9.1.8 14-5.3l9.6-12c4.6-6 15.7-9.8 26.6-3.7 14.7 8.3 33.4 21.2 45.8 32.9 7 5.7 8.6 14.4 3.8 23.6z"></path></svg></a>
-										<a target="_blank" style="  " class="sn sn-tg  hidden   link_tg" href=""></a>
+										  <a target="_blank" style="   " class="sn sn-vk  link_vk" href="https://vk.com/hismatulinr"></a>
+																		<a target="_blank" style="   " class="sn sn-vk  link_vk" href="https://vk.com/lesbianhunter"></a>
+																		<a target="_blank" style="   " class="sn sn-vk  link_vk" href="https://vk.com/ssshhhuuutttuuuppp"></a>
+																		<a target="_blank" style="   " class="sn sn-vk  link_vk" href="https://vk.com/college.guap"></a>
+                                                                   
 									<div class="clear"></div>
 									</div>
 							</div>
