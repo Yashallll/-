@@ -153,21 +153,21 @@
 		<div class="section_inner width1170">
 		<div class="title"><span style="font-size:36px"><strong>ОТЗЫВЫ ВЛАДЕЛЬЦЕВ</strong></span></div> 					
 		<div class="arr1">									
-			<div data-link="" class="col_2 image1 border image_size_940x680 border1"><img src = "https://larte-design.ru/images/bmw/x5m%20f95/X5M%20Competition_rear_site_Carbon_%D1%87%D1%91%D1%80%D0%BD%D1%8B%D0%B9%20%D1%81%D0%B0%D0%BF%D1%84%D0%B8%D1%80%20(1).png"></div>									
+			<div data-link="" class="col_2 image1 border image_size_940x680 border1"><img src = "https://www.cars.com/i/large/in/v2/stock_photos/02d05cfc-3b76-47f9-8139-9b18e4af8e6e/b2f851af-d083-4308-87d7-efb84ef39a04.png"></div>									
 				<div class="col_2">
 					<div class="descr1"><strong><span style="font-size:20px">Вячеслав Ознобихин</span></strong></div>
 					<div class="txt1"><p><span style="font-size:17px">BMW это дерзкий взгляд дикой кошки, воплощение зла и сатаны, если её раскочегарить, она будет переезжать любого кто встанет на её пути, у этой бестии есть один минус, да вообще впринципе у любой бмв этот минус присутсвует, это ошибки на приводе. Как же они любят вылезать когда ты даёшь боком по мкаду на скорости 150км\ч<br><br></span></p></div> 
 				</div>			
 		</div> 							
 		<div class="arr1">									
-			<div data-link="" class="col_2 image1 border image_size_940x680 border1"><img src = "https://gamemodels.ru/screenshots/monthly_12_2019/4cec69708bb4cf2069cb037f561f5671-bmw_m2competition_2018_render1.png"></div>									
+			<div data-link="" class="col_2 image1 border image_size_940x680 border1"><img src = "https://media-server2.modenamotorsgmbh.com/16098-large_default/bmw-m2-competition.jpg"></div>									
 				<div class="col_2">
 					<div class="descr1"><strong><span style="font-size:20px">Артур Макаров</span></strong></div>
 					<div class="txt1"><p><span style="font-size:16px"></span><span style="font-size:17px">Машина для души. Машина для сердца. Ты только собрался ускориться - а она уже едет. Поворачиваешь - а она уже заныривает в поворот. Машина, которая читает твои мысли и заставляет получать удовольствие.</span><span style="font-size:16px"></span></p></div> 
 				</div>			
 		</div> 					
 		<div class="arr1">									
-			<div data-link="" class="col_2 image1 border image_size_940x680 border1"><img src = "https://www.pngplay.com/wp-content/uploads/13/BMW-M3-2019-Transparent-Free-PNG.png"></div>									
+			<div data-link="" class="col_2 image1 border image_size_940x680 border1"><img src = "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/355d5d97-a9e7-439e-83c4-f346fb5d3633/f821dab3-7ec9-44b0-8f20-afc9c595951a.png"></div>									
 				<div class="col_2">
 					<div class="descr1"><strong><span style="font-size:20px">Ольга Михайлова</span></strong></div>
 					<div class="txt1"><p><span style="font-size:16px"></span><span style="font-size:17px">Плюсы это управляемость, и необъяснимая харизма этой машины. Езжу на своей тройке уже 5й год, и не могу от неё отказаться. Довольно простой и надёжный автомобиль. участвовала на ней и в автослаломе и в импровизированных зимних покатушках по полям, везде очень хорошо себя показала (конечно учитывая что можно выжать из двигателя 1,8).</span><span style="font-size:16px"></span></p></div> 
@@ -188,9 +188,9 @@
 			<div class="text1">Звонок по России бесплатный</div>					
 				<div class="social_icons square ">
 					<a target="_blank" style="" class="sn sn-vk  link_vk" href="https://vk.com/hismatulinr"></a>
-						<a target="_blank" style="" class="sn sn-vk  link_vk" href="https://vk.com/lesbianhunter"></a>
-						<a target="_blank" style="" class="sn sn-vk  link_vk" href="https://vk.com/ssshhhuuutttuuuppp"></a>
-						<a target="_blank" style="" class="sn sn-vk  link_vk" href="https://vk.com/college.guap"></a>                                                                  						
+					<a target="_blank" style="" class="sn sn-vk  link_vk" href="https://vk.com/lesbianhunter"></a>
+					<a target="_blank" style="" class="sn sn-vk  link_vk" href="https://vk.com/ssshhhuuutttuuuppp"></a>
+					<a target="_blank" style="" class="sn sn-vk  link_vk" href="https://vk.com/college.guap"></a>                                                                  						
 				</div>
 			</div>
 		<div class="clear"></div>								
