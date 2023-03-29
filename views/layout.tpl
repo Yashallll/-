@@ -18,7 +18,7 @@
     <div class="section_inner  all_border width1170">                                                                                       
         <div class="logo_text"><span style="font-family:raleway,sans-serif"><strong>SUAI</strong></span></div>                                                                                        
         <div class="menu-and-phone-and-btn">
-            <a href="tel:+7 921 862 51 51" class="phone1 phone show_phone_icon" style="color:#e8aa6d;">+7 921 862 51 51</a>                                        
+            <a href="tel:+7 921 862 51 51" class="phone1  https://cdn.onlinewebfonts.com/svg/download_76531.png" style="color:#e8aa6d;">+7 921 862 51 51</a>                                        
             <div class="menu1" style="font-size:16px; color:#333333;">
                 <ul><li class="level0"><a href="#anchor1" title="ПОЧЕМУ МЫ">ИСТОРИЯ BMW</a></li><li class="level0"><a href="#anchor3" title="ОТЗЫВЫ">ОТЗЫВЫ ВЛАДЕЛЬЦЕВ</a></li><li class="level0"><a href="#a_1838505" title="КОНТАКТЫ">КОНТАКТЫ</a></li></ul>
             </div>            
@@ -39,7 +39,7 @@
 					<div class="arr1">
 						<div class="col_3">
 							<div class="icon_layer">
-								<div class="mdico1 " style="color:#e8aa6d;"><i class="md svg-icon-bodyguard"></i></div>
+								<div class="mdico1 " style="color:#e8aa6d;"><img src="https://pngimg.com/uploads/dot/dot_PNG21.png" height="20%"  ></i></div>
 								<div class="title1"><span style="color:#FFFFFF"><strong><span style="font-family:montserrat"><span style="font-size:28px">Великолепный дизайн</span></span></strong></span></div>								
 							</div>
 							<div class="txt1"> <span style="font-size:17px;"><span style="color:#FFFFFF"><span style="font-family:montserrat"> Мало кто может поспорить с красотой этой машины</span></span></span></div> 											
@@ -48,7 +48,7 @@
 					<div class="arr1">
 						<div class="col_3">
 							<div class="icon_layer">
-								<div class="mdico1 " style="color:#e8aa6d;"><i class="md svg-icon-business-and-finance4"></i></div>
+								<div class="mdico1 " style="color:#e8aa6d;"><img src="https://pngimg.com/uploads/dot/dot_PNG21.png" height="20%"  ></i></div>
 								<div class="title1"><span style="color:#FFFFFF;"><span style="font-family:montserrat"><span style="font-size:28px"><strong>Великолепные двигатели</strong></span></span></span></div>
 							</div>
 							<div class="txt1"> <span style="font-size:17px;"><span style="color:#FFFFFF"><span style="font-family:montserrat">Мощность и экономичность</span></span></span></div> 											
@@ -57,7 +57,7 @@
 					<div class="arr1">
 						<div class="col_3">
 							<div class="icon_layer">
-								<div class="mdico1 " style="color:#e8aa6d;"><i class="md svg-icon-box1"></i></div>
+								<div class="mdico1 " style="color:#e8aa6d;"><img src="https://pngimg.com/uploads/dot/dot_PNG21.png" height="20%"  ></i></div>
 								<div class="title1"><span style="color:#FFFFFF;"><span style="font-family:montserrat"><span style="font-size:28px"><strong>Отличные ходовые качества и управление</strong></span></span></span></div>
 							</div>
 							<div class="txt1"> <span style="font-size:17px"><span style="color:#FFFFFF"><span style="font-family:montserrat">Машина не на секунду не дает сомневаться, что что-то может выйти из под контроля<br></span></span></span></div> 											
@@ -184,10 +184,10 @@
 			<div class="address1">ООО SUAI, 123456, г.Санк-Петербург, пр. Московский 149В<br>ИНН 1234567890 ОГРН 123456789012</div>								 
 		</div>
 		<div class="phone-and-address">
-			<div class="phone1 zphone show_phone_icon">8 921 862 51 51</div>
+			<div class="phone1 https://olgaagatova.ru/uploaded/soc/vk.png">+7 921 862 51 51</div>
 			<div class="text1">Звонок по России бесплатный</div>					
 				<div class="social_icons square ">
-					<a target="_blank" style="" class="sn sn-vk  link_vk" href="https://vk.com/hismatulinr"></a>
+					<a target="_blank" style="" class="sn sn-vk  link_vk" href="https://vk.com/hismatulinr" src img="https://olgaagatova.ru/uploaded/soc/vk.png"></a>
 					<a target="_blank" style="" class="sn sn-vk  link_vk" href="https://vk.com/lesbianhunter"></a>
 					<a target="_blank" style="" class="sn sn-vk  link_vk" href="https://vk.com/ssshhhuuutttuuuppp"></a>
 					<a target="_blank" style="" class="sn sn-vk  link_vk" href="https://vk.com/college.guap"></a>                                                                  						
