@@ -5,7 +5,8 @@ This script runs the application using a development server.
 import bottle
 import os
 import sys
-
+import first
+import second
 # routes contains the HTTP handlers for our server and must be imported.
 import routes
 
